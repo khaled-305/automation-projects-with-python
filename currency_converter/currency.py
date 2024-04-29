@@ -1,5 +1,5 @@
 '''
-This program 
+This program takes a currency and returns it's current market rate as against other currencies
 '''
 
 import requests
